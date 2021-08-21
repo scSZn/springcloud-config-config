@@ -1,2 +1,2 @@
 config:
-  info: "master, spring-cloud-config, prod"
+  info: "dev, spring-cloud-config, prod"
