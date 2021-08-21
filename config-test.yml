@@ -1,2 +1,2 @@
 config:
-  info: "master, spring-cloud-config, test"
+  info: "master, spring-cloud-config, test, version=1"
